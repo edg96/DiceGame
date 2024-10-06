@@ -2,7 +2,7 @@
 
 This simple and addictive browser game allows players to take turns rolling a dice to reach a target score first. With a clean and minimalistic design, it provides a fun and engaging way to pass the time, perfect for casual gaming and practicing web development fundamentals.
 
-[Take a live look at my website powered by ](link)
+[Take a live look at my website powered by Vercel](https://dice-game-eta-vert.vercel.app/)
 
 <img src="./images/screen.png" />
 
