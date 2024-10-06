@@ -27,10 +27,12 @@ git clone https://github.com/edg96/DiceGame
 
 ## A long advice
 
-This project is an excellent opportunity to strengthen your skills in the key web development areas: HTML, CSS, and JavaScript.
+This project offers a straightforward opportunity to focus on the core building blocks of web development: HTML, CSS, and JavaScript.
 
-- HTML forms the backbone of the webpage, structuring the game's content and interface.
-- CSS handles the visual styling, providing a clean and responsive design for a smooth user experience.
-- JavaScript introduces dynamic interactivity, controlling game logic, rolling dice, and managing player turns.
+- HTML serves as the foundation of web pages, defining the structure and content of a website. A solid understanding of HTML enables the creation of custom layouts, the integration of multimedia elements, and the effective organization of content
 
-By working on this project, you'll gain hands-on experience building a fully functional web game using these essential technologies.
+- CSS handles the styling of web pages, allowing control over the appearance of elements, such as colors, fonts, spacing, and layout. Mastery of CSS results in visually appealing and responsive designs
+
+- JavaScript introduces interactivity and dynamic behavior to web pages. It is used to create animations, manage user interactions, and build complex web applications
+
+This project is designed to test knowledge of HTML, CSS, and JavaScript.
